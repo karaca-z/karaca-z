@@ -16,8 +16,11 @@ An aspiring **Biomedical Engineering** and **Computer Programming** student focu
 ### 🛠️ Tech Stack & Tools
 
 | **Programming & AI** | Python, PyTorch, YOLO, C/C++ |
+
 | **Embedded Systems** | STM32, STM32CubeMX, EasyEDA-Pro, KiCAD |
+
 | **Engineering & 3D Design** | MATLAB & Simulink, Fusion 360, SolidWorks, Blender, ANSYS |
+
 | **Data & Productivity** | MS Excel, MS Office |
 
 ---
@@ -31,8 +34,8 @@ An aspiring **Biomedical Engineering** and **Computer Programming** student focu
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=karaca-zeyne&show_icons=true&theme=gotham)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karaca-zeyne&layout=compact&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=karaca-z&show_icons=true&theme=gotham)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karaca-z&layout=compact&theme=gotham)
 
 ---
 
