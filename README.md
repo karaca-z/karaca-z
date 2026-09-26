@@ -29,12 +29,6 @@ An aspiring **Biomedical Engineering** and **Computer Programming** student focu
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=karaca-z&show_icons=true&theme=gotham)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karaca-z&layout=compact&theme=gotham)
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/karaca-zeyne](https://linkedin.com/in/karaca-zeyne)
 - **Email:** zeynebkaraca29@gmail.com
